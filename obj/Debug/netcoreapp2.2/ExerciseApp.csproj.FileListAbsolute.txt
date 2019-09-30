@@ -1,0 +1,11 @@
+C:\Users\Hanna_Ismahilova\source\repos\ConsoleApp4\ConsoleApp4\bin\Debug\netcoreapp2.2\ExerciseApp.deps.json
+C:\Users\Hanna_Ismahilova\source\repos\ConsoleApp4\ConsoleApp4\bin\Debug\netcoreapp2.2\ExerciseApp.runtimeconfig.json
+C:\Users\Hanna_Ismahilova\source\repos\ConsoleApp4\ConsoleApp4\bin\Debug\netcoreapp2.2\ExerciseApp.runtimeconfig.dev.json
+C:\Users\Hanna_Ismahilova\source\repos\ConsoleApp4\ConsoleApp4\bin\Debug\netcoreapp2.2\ExerciseApp.dll
+C:\Users\Hanna_Ismahilova\source\repos\ConsoleApp4\ConsoleApp4\bin\Debug\netcoreapp2.2\ExerciseApp.pdb
+C:\Users\Hanna_Ismahilova\source\repos\ConsoleApp4\ConsoleApp4\obj\Debug\netcoreapp2.2\ExerciseApp.csproj.CoreCompileInputs.cache
+C:\Users\Hanna_Ismahilova\source\repos\ConsoleApp4\ConsoleApp4\obj\Debug\netcoreapp2.2\ExerciseApp.AssemblyInfoInputs.cache
+C:\Users\Hanna_Ismahilova\source\repos\ConsoleApp4\ConsoleApp4\obj\Debug\netcoreapp2.2\ExerciseApp.AssemblyInfo.cs
+C:\Users\Hanna_Ismahilova\source\repos\ConsoleApp4\ConsoleApp4\obj\Debug\netcoreapp2.2\ExerciseApp.dll
+C:\Users\Hanna_Ismahilova\source\repos\ConsoleApp4\ConsoleApp4\obj\Debug\netcoreapp2.2\ExerciseApp.pdb
+C:\Users\Hanna_Ismahilova\source\repos\ConsoleApp4\ConsoleApp4\obj\Debug\netcoreapp2.2\ExerciseApp.csprojAssemblyReference.cache
