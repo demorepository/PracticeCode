@@ -13,7 +13,7 @@ namespace ExampleConstructor
         /// <summary>
         /// Static readonly variable that must be initialized at run time, which means:
         /// we can assign value on class level or in static constructor(!)
-        /// Otherwise 
+        /// Otherwise we cannot assign value to readOnly variable.
         /// </summary>
         static readonly long baseline;
         public Product()
